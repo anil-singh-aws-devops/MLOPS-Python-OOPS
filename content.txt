@@ -1,0 +1,4 @@
+1. Class and Object.
+2. Class has data/attributes and function/method
+  >attributes called itself, method called manually
+3. why python is called oops? everything in python is an object(data structure, data type etc)
